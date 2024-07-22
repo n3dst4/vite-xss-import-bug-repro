@@ -1,5 +1,7 @@
 # vite-xss-import-bug-repro
 
+This is a minimal repro for https://github.com/vitejs/vite/issues/16106 which is now CLOSED.
+
 To set up:
 
 Clone this repo, then:
